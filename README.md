@@ -34,7 +34,7 @@ python3 --version
 ## 📥 نصب
 
 ```bash
-git clone https://github.com/yousofpayamber/Simorgh.git
+git clone https://github.com/theneoleo/Simorgh.git
 cd Simorgh
 pip install -r requirements.txt
 ```
